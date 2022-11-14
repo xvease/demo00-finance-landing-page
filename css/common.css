@@ -7,6 +7,7 @@ body {
     width: 1200px;
     margin: 0 auto;
     padding: 1px;
+    /* border: 10px solid blue; */
 }
 
 header,
@@ -493,5 +494,5 @@ body>section[class^=s],
 header,
 footer {
     padding: 1px;
-    border: 5px solid red;
+    /* border: 5px solid red; */
 }
