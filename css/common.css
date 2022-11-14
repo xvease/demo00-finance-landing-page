@@ -223,10 +223,11 @@ header nav li a {
     font-size: 20px;
 }
 
+.s3,
 .s3 .w {
     height: 400px;
     background-color: #EBF3F6;
-    border-top: 1px solid transparent;
+    /* border-top: 1px solid transparent; */
 }
 
 .s3 ol {
@@ -492,4 +493,5 @@ body>section[class^=s],
 header,
 footer {
     padding: 1px;
+    border: 5px solid red;
 }
